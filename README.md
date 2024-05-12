@@ -19,7 +19,7 @@ All documentation for the [original DokuWiki project](https://www.dokuwiki.org/)
 
 For [Installation Instructions](https://www.dokuwiki.org/install) take extra care as there may be deviations soon.
 
-The original [DokuWiki](https://github.com/dokuwiki/dokuwiki) legacy was: 
+[DokuWiki](https://github.com/dokuwiki/dokuwiki) legacy: 
 2004-2024 (c) Andreas Gohr <andi@splitbrain.org>
 and the [DokuWiki Community](https://forum.dokuwiki.org/t/community).
                          
